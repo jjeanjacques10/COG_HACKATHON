@@ -10,3 +10,5 @@ Mapeamento geográfico e demográfico do fluxo de pessoas que transitam nos shop
 Utilizando as câmeras já instaladas nos shoppings, oferecemos um software de reconhecimento facial e monitoramento.
 
 Plataforma que coleta, integra e analisa dados que auxiliam na tomada de decisão para o varejo 4.0 por meio do mapeamento físico.
+
+Fonte de receita; planos de mensalidade para os shoppings além de customização para os logistas
