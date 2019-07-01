@@ -11,4 +11,4 @@ Utilizando as câmeras já instaladas nos shoppings, oferecemos um software de r
 
 Plataforma que coleta, integra e analisa dados que auxiliam na tomada de decisão para o varejo 4.0 por meio do mapeamento físico.
 
-Fonte de receita; planos de mensalidade para os shoppings além de customização para os logistas
+Fonte de receita; planos de mensalidade para os shoppings além de customização para os lojistas
